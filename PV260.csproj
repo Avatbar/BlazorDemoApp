@@ -5,7 +5,8 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <OverrideHtmlAssetPlaceholders>true</OverrideHtmlAssetPlaceholders>
-    <StaticWebAssetBasePath Condition="'$(GHPages)' == 'true'">BlazorDemoApp</StaticWebAssetBasePath>
+    <GitHubPagesBasePath>BlazorDemoApp</GitHubPagesBasePath>
+    <StaticWebAssetBasePath Condition="'$(GHPages)' == 'true'">$(GitHubPagesBasePath)</StaticWebAssetBasePath>
   </PropertyGroup>
 
   <ItemGroup>
