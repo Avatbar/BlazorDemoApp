@@ -5,7 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <OverrideHtmlAssetPlaceholders>true</OverrideHtmlAssetPlaceholders>
-    <StaticWebAssetBasePath Condition="'$(GHPages)' == 'true'">PV260</StaticWebAssetBasePath>
+    <StaticWebAssetBasePath Condition="'$(GHPages)' == 'true'">BlazorDemoApp</StaticWebAssetBasePath>
   </PropertyGroup>
 
   <ItemGroup>
