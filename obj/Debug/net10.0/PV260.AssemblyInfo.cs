@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PV260")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e418fed4af82a1dad1974b9da3243448576c44ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("PV260")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PV260")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
